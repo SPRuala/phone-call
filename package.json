@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "dayjs": "^1.11.10",
+    "uview-plus": "^3.2.11"
+  },
+  "devDependencies": {
+    "sass": "^1.75.0",
+    "sass-loader": "^10.5.2"
+  }
+}
